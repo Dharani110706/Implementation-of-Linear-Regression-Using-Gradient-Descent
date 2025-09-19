@@ -86,7 +86,9 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
+<img width="736" height="867" alt="image" src="https://github.com/user-attachments/assets/0d76775f-80a2-4e54-a7bd-98130099747e" />
 
+<img width="685" height="523" alt="image" src="https://github.com/user-attachments/assets/5182381d-4ddb-47dd-8ee0-b9413e4d9c5c" />
 
 ## Result:
 
